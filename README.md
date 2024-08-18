@@ -4,7 +4,7 @@
 Este guia visa fornecer uma lista de treinos para aqueles que querem tem um corpo saudável e definido.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[Copilot](https://copilot.microsoft.com/)** para criação da lista de treinos.
+- IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com/)** para criação da lista de treinos.
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para criação e organização da lista em uma tabela.
 
 ## 🧐 Processo de Criação
